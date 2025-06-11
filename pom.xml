@@ -1,1 +1,1 @@
-mvn clean site verify
+mvn -f demo-app/pom.xml clean site verify
